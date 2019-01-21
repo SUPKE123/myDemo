@@ -10,4 +10,6 @@ import java.lang.annotation.Target;
 public @interface MyAnnotation {
 	
 	String value() default "";
+	
+	String name() default "";
 }
