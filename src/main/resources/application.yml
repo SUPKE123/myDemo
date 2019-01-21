@@ -1,0 +1,8 @@
+server:
+  port: 61000
+  servlet:
+    context-path: /ke-demo
+ 
+spring:
+  application:
+    name: ke-demo    
